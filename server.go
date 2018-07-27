@@ -8,10 +8,10 @@ import (
 	"net/rpc"
 	"time"
 
-	"tcp.fresh.com/mylog"
+	"tcpServer/mylog"
 
-	"tcp.fresh.com/core"
-	"tcp.fresh.com/data"
+	"tcpServer/core"
+	"tcpServer/data"
 )
 
 func main() {
